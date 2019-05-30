@@ -8,3 +8,5 @@
 
 
 3) In the last figure, the majority of cities have the windspeed under 15mph.
+
+<img width="867" alt="Screen Shot 2019-05-30 at 4 02 01 PM" src="https://user-images.githubusercontent.com/49076702/58670552-55863280-82f4-11e9-8f9a-73d0f8a6111f.png">
